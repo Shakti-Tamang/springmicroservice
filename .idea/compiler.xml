@@ -10,17 +10,20 @@
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
         </processorPath>
-        <module name="prac" />
         <module name="payement" />
+        <module name="prac" />
+        <module name="base-domains" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="base-domains" target="17" />
       <module name="payement" target="17" />
       <module name="prac" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="base-domains" options="-parameters" />
       <module name="payement" options="-parameters" />
       <module name="prac" options="-parameters" />
     </option>

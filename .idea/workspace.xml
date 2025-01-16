@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd66a8b5-f9d6-4512-8411-45b630287ff0" name="Default Changelist" comment="" />
+    <list default="true" id="bd66a8b5-f9d6-4512-8411-45b630287ff0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_116.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_core_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_integration_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_modelmapper_modelmapper_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_common_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_ui_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_webmvc_core_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_swagger_ui_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base-domains/base-domains.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base-domains/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base-domains/src/main/java/com/microservise/base/BaseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base-domains/src/main/java/com/microservise/base/model/OrderModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base-domains/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payement/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,28 +54,49 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2rf57wLoS8LouX87gtVA6sRl6Ps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BaseApp">
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="payement" />
       <extension name="coverage">
@@ -49,8 +110,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaseApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="base-domains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservise.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservise.base.BaseApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.BaseApp" />
         <item itemvalue="Spring Boot.App" />
       </list>
     </recent_temporary>
@@ -60,7 +135,22 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -79,65 +169,68 @@
       <updated>1736937124031</updated>
       <workItem from="1736937125351" duration="248000" />
       <workItem from="1736937395711" duration="313000" />
-      <workItem from="1736937750437" duration="291000" />
+      <workItem from="1736937750437" duration="3712000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="175" y="0" key="#Project_Structure" timestamp="1736937362140">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="175" y="0" key="#Project_Structure/0.0.1366.720@0.0.1366.720" timestamp="1736937362140" />
-    <state x="413" y="0" key="FileChooserDialogImpl" timestamp="1736937504272">
+    <state x="413" y="0" key="FileChooserDialogImpl" timestamp="1736938580597">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="413" y="0" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1736937504272" />
-    <state width="1311" height="263" key="GridCell.Tab.0.bottom" timestamp="1736938137163">
+    <state x="413" y="0" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1736938580597" />
+    <state width="891" height="435" key="GridCell.Tab.0.bottom" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1736938137163" />
-    <state width="1311" height="263" key="GridCell.Tab.0.center" timestamp="1736938137163">
+    <state width="891" height="435" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.0.center" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1736938137163" />
-    <state width="1311" height="263" key="GridCell.Tab.0.left" timestamp="1736938137163">
+    <state width="891" height="435" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.0.left" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1736938137163" />
-    <state width="1311" height="263" key="GridCell.Tab.0.right" timestamp="1736938137163">
+    <state width="891" height="435" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.0.right" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1736938137163" />
-    <state width="1311" height="263" key="GridCell.Tab.1.bottom" timestamp="1736938137164">
+    <state width="891" height="435" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.1.bottom" timestamp="1736938741244">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1736938137164" />
-    <state width="1311" height="263" key="GridCell.Tab.1.center" timestamp="1736938137164">
+    <state width="891" height="435" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1736938741244" />
+    <state width="891" height="435" key="GridCell.Tab.1.center" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1736938137164" />
-    <state width="1311" height="263" key="GridCell.Tab.1.left" timestamp="1736938137164">
+    <state width="891" height="435" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.1.left" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1736938137164" />
-    <state width="1311" height="263" key="GridCell.Tab.1.right" timestamp="1736938137164">
+    <state width="891" height="435" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
+    <state width="891" height="435" key="GridCell.Tab.1.right" timestamp="1736938741243">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1311" height="263" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1736938137164" />
+    <state width="891" height="435" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1736938741243" />
     <state x="289" y="0" key="NewModule_or_Project.wizard" timestamp="1736937523676">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="289" y="0" key="NewModule_or_Project.wizard/0.0.1366.720@0.0.1366.720" timestamp="1736937523676" />
-    <state x="35" y="0" key="SettingsEditor" timestamp="1736937934491">
+    <state x="35" y="0" key="SettingsEditor" timestamp="1736938582683">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="35" y="0" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1736937934490" />
-    <state x="0" y="0" width="1366" height="697" key="new project wizard" timestamp="1736937872277">
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1736938582683" />
+    <state x="0" y="0" width="1366" height="697" key="new project wizard" timestamp="1736938540736">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="0" y="0" width="1366" height="697" key="new project wizard/0.0.1366.720@0.0.1366.720" timestamp="1736937872277" />
+    <state x="0" y="0" width="1366" height="697" key="new project wizard/0.0.1366.720@0.0.1366.720" timestamp="1736938540736" />
   </component>
 </project>

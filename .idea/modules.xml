@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-domains/base-domains.iml" filepath="$PROJECT_DIR$/base-domains/base-domains.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/finalpracmicroser.iml" filepath="$PROJECT_DIR$/.idea/finalpracmicroser.iml" />
       <module fileurl="file://$PROJECT_DIR$/payement/payement.iml" filepath="$PROJECT_DIR$/payement/payement.iml" />
       <module fileurl="file://$PROJECT_DIR$/prac/prac.iml" filepath="$PROJECT_DIR$/prac/prac.iml" />
